@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">发票通</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_err_nophone">帐号名错误</string>
+    <string name="login_err_nopassword">密码错误</string>
+    <string name="confirm">确定</string>
+    <string name="login_err_title">错误提示</string>
+    <string name="err_network">网络错误</string>
+
+</resources>
